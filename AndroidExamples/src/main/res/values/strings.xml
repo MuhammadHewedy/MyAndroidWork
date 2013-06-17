@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidExamples</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="new_game">New Game</string>
+    <string name="help">Help</string>
+    <string name="file">File</string>
+    <string name="create_new">New</string>
+    <string name="open">Open</string>
+    <string name="play">Play</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Enter product name</string>
+
+</resources>
